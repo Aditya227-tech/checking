@@ -15,7 +15,7 @@ Before getting started, ensure you have the following installed on your machine:
 .Visual Studio Code
 
 #Installation:
-1) Clone the repository: git clone [repository_url]
+1) Clone the repository: git clone [https://github.com/Aditya227-tech/Swiggy_clone]
 2) Navigate to the project directory: cd [project_directory]3)
 Install dependencies: npm install
 
